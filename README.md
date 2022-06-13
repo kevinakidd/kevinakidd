@@ -1,4 +1,4 @@
-### Hi, I'm Kevin 👋
+### Hello! 👋
 
 - 🔭 Exploring the Cosmos
 - 🌱 Practicing Rust & CosmWasm development
